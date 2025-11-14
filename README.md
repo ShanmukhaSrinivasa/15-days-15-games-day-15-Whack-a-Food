@@ -18,4 +18,4 @@ Data-Driven Prefabs: A single TargetX.cs script is used for all spawned objects.
 Polished Player Feedback: The game provides excellent feedback, including a RedFlashRoutine coroutine in the GameManagerX that flashes a red UI overlay when the player clicks a bad item. Particle effects and audio (AudioSource.PlayClipAtPoint) are triggered by the TargetX script upon being clicked.
 
 ▶️ Play the Game!
-You can play the game in your browser on its itch.io page: []
+You can play the game in your browser on its itch.io page: [https://shanmukha.itch.io/whack-a-food]
