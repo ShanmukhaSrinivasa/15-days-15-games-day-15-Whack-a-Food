@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
+# Ignore Unity-specific files in language statistics
+*.mat linguist-vendored
+*.shader linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.m linguist-vendored
+
+# Tell git to properly handle line endings
 * text=auto
